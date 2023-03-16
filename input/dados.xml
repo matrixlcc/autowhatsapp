@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<perfil>
+  <user>1</user>
+  <sessao>1</sessao>
+</perfil>
+<exe>login</exe>
+<msg>
+  <tel>998888888</tel>
+  <txt>Bom dia </txt>
+  <txt>grupo de msg 1</txt>
+</msg>
+<msg>
+  <tel>999999999</tel>
+  <txt>Bom noite</txt>
+  <txt>vo testar boot mensagem do grupo 1</txt>
+</msg>
