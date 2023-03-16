@@ -29,13 +29,15 @@
 
 <h2>Tags de parâmetros XML</h2>
 <ul>
+
   <li>
     <p>perfil</p>
     <ul>
       <li>user: para usuário do navegador</li>
       <li>sessao: para sessão do navegador</li>
-    <ul>
+    </ul>
   </li>
+
   <li>
     <p>exe: para os comandos (login, logoff, status)</p>
   </li>
@@ -45,7 +47,7 @@
     <ul>
       <li>tel: telefone a receber mensagem</li>
       <li>txt: texto da mensagem</li>
-    <ul>
+    </ul>
   </li>
   <li>
     <p>somente as tags exe, tel, txt e msg podem receber vários parâmetros</p>
